@@ -3,5 +3,8 @@ Scrapes chinese lyrics from Mojim.com using BeautifulSoup or scrapy. Uses the da
 
 ![](example.gif)
 
-# Usage
+## Usage
     python lyrics_hk.py
+    
+## Source
+https://mojim.com/
